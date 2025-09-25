@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/yurim_portfolio_page/static/css/main.14b06f3e.css",
+    "main.js": "/yurim_portfolio_page/static/js/main.65dcea56.js",
+    "static/media/banner_3.png": "/yurim_portfolio_page/static/media/banner_3.e275ca1f39e32c3e67bd.png",
+    "static/media/banner_2.png": "/yurim_portfolio_page/static/media/banner_2.41fbefc3299573d0b4cc.png",
+    "static/media/banner_1_1.png": "/yurim_portfolio_page/static/media/banner_1_1.8dd37b546941eb87083b.png",
+    "static/media/lh_web.png": "/yurim_portfolio_page/static/media/lh_web.225d6e33e01e7bde864a.png",
+    "static/media/makeup_web.png": "/yurim_portfolio_page/static/media/makeup_web.bd2eb5e53ad603828aa5.png",
+    "static/media/addmoa_web.png": "/yurim_portfolio_page/static/media/addmoa_web.7277344f8c03571c3141.png",
+    "static/media/github.png": "/yurim_portfolio_page/static/media/github.1748252907c7f46a5185.png",
+    "static/media/javascript.png": "/yurim_portfolio_page/static/media/javascript.83c44c930cbd59951b3d.png",
+    "static/media/sun_app.png": "/yurim_portfolio_page/static/media/sun_app.0483d48cea2bf4a144c8.png",
+    "static/media/color_app.png": "/yurim_portfolio_page/static/media/color_app.e9c592d9084a7616a63d.png",
+    "static/media/elec_app.png": "/yurim_portfolio_page/static/media/elec_app.e1555c632ed72a129a50.png",
+    "static/media/photoshop.png": "/yurim_portfolio_page/static/media/photoshop.fd3f92333af314758175.png",
+    "static/media/react.png": "/yurim_portfolio_page/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/illustrator.png": "/yurim_portfolio_page/static/media/illustrator.85ffd615e2a7e72352ec.png",
+    "static/media/html.png": "/yurim_portfolio_page/static/media/html.16a6c6647c837364c656.png",
+    "static/media/sourcetree.png": "/yurim_portfolio_page/static/media/sourcetree.7b8b4859cb97443fd202.png",
+    "static/media/gsap.png": "/yurim_portfolio_page/static/media/gsap.aeb929bf2cc3ff7f32c3.png",
+    "static/media/css.png": "/yurim_portfolio_page/static/media/css.c5fcada23678766623af.png",
+    "index.html": "/yurim_portfolio_page/index.html",
+    "main.14b06f3e.css.map": "/yurim_portfolio_page/static/css/main.14b06f3e.css.map",
+    "main.65dcea56.js.map": "/yurim_portfolio_page/static/js/main.65dcea56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b06f3e.css",
+    "static/js/main.65dcea56.js"
+  ]
+}
