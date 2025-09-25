@@ -11,6 +11,8 @@
 
 👉 **[https://yurim-web.github.io/yurim_portfolio_page/](https://yurim-web.github.io/yurim_portfolio_page/)**
 
+📂 **소스 코드**: [https://github.com/yurim-web/renew_portfolio](https://github.com/yurim-web/renew_portfolio)
+
 
 ## 🛠️ 기술 스택
 
