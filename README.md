@@ -3,7 +3,7 @@
 > **프론트엔드 개발자 이유림의 포트폴리오 웹사이트**  
 > React, TypeScript, GSAP을 활용한 인터랙티브한 포트폴리오
 
-![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen) ![GitHub Pages](https://github.com/yurim-web/renew_portfolio) ![Live Site](https://yurim-web.github.io/yurim_portfolio_page/)
+![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen) ![GitHub](https://img.shields.io/badge/GitHub-yurim--web-black?logo=github) ![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Now-blue)
 
 ## 🌟 포트폴리오 사이트
 
